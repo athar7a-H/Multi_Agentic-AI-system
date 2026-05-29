@@ -1,0 +1,80 @@
+# Gemini API
+google-generativeai
+
+# LangChain + Agents
+langchain
+langgraph
+langsmith
+
+# Gemini LangChain Integration
+langchain-google-genai
+
+# Environment Variables
+python-dotenv
+
+# Tavily Search
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Browser Automation
+playwright
+
+# Async
+aiohttp
+
+# API Backend
+fastapi
+uvicorn
+
+# Data Handling
+pandas
+numpy
+
+# Validation
+pydantic
+
+# Logging
+loguru
+rich
+
+# Tokenizer
+tiktoken
+
+# JSON Speed
+orjson
+
+# Retry Logic
+tenacity
+
+# File Parsing
+PyPDF2
+python-docx
+
+# Vector Database
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# Database
+sqlalchemy
+
+# Cache
+redis
+
+# Queue
+celery
+
+# Dev Tools
+ipython
+jupyter
+
+# Testing
+pytest
+
+# Optional UI
+streamlit
